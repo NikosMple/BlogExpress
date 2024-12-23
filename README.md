@@ -15,8 +15,8 @@ A simple blog application built using **Node.js**, **Express.js**, and **EJS** f
 Follow these steps to set up and run the application on your local machine:
 
 ### Clone the Repository
-git clone <repository-url>
-cd BlogExpress
+-git clone <repository-url>
+-cd BlogExpress
 
 #### Run the following command to install all necessary dependencies:
 

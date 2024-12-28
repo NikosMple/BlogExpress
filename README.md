@@ -20,8 +20,8 @@ Follow these steps to set up and run the application on your local machine:
 
 #### Run the following command to install all necessary dependencies:
 
--npm install
--node index.js (Or nodemon index.js)
+- npm install
+- node index.js (Or nodemon index.js)
 
 #### Once the app is running, visit it in your browser at:
 http://localhost:3000
